@@ -3,11 +3,10 @@
 <p>This project is a 3D model of my college campus created using Blender. The model accurately represents the main buildings, pathways, and overall layout of the campus, providing a detailed virtual representation.</p>
 
 <h2>Features</h2>
-<ul>
-    
+<ol> 
     <li>Detailed textures and lighting for a realistic feel.</li>
     <li>Interactive 360-degree view (if integrated with a viewer).</li>
-</ul>
+</ol>
 
 <h2>How It Was Made</h2>
 <p>The model was created using Blender, starting from basic shapes to more complex structures. Various Blender techniques such as extrusion, texturing, and lighting were employed to bring the model to life.</p>
@@ -26,7 +25,7 @@
 
 <video width="600" controls>
   <source src="https://github.com/rishidubasi/Campus3dart/blob/main/Img/Demo.mp4" type="video/mp4">
-  
+  https://github.com/rishidubasi/Campus3dart/blob/main/Img/Demo.mp4" type="video/mp4
 </video>
 
 <h2>Requirements</h2>
